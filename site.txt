@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing page</title>
+    <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="    https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+">
+</head>
+<body>
+    <header>
+        <div class="nav">
+            <div class="navinfo">
+                <span>
+                    <h1>Start Bootstrap</h1>
+                </span>
+            </div>
+            <div class="navbutton">
+                <button class="button"><a href="#SignUp">Signup</a></button>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section>
+            <div class="lp">
+                <div class="lpmain">
+                    <div class="lpinfo">
+                        <h1>Generate more leads with a professional landing page!</h1>
+                      </div>  
+                      <div class="submitclass">
+                        <input type="text" placeholder="Email Adress" required> 
+                        <input type="submit" >
+                      </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="advantage">
+                <div class="responsive">
+<div class="responsiveicon">
+    <i class="fa-solid fa-computer"></i></div>
+    <div class="responsiveinfo">
+        <h1>Fully Responsive</h1> <p>This theme will look great on any device, no matter the size!</p>
+    </div>
+                </div>
+                <div class="bootstrap">
+                    <div class="bootstrapicon">
+                        <i class="fa-brands fa-bootstrap"></i></div>
+                        <div class="bootstrapinfo">
+                            <h1>Bootstrap 5 Ready</h1> <p>Featuring the latest build of the new Bootstrap 5 framework!</p>
+                        </div>
+                                    </div>
+                                    <div class="use">
+                                        <div class="useicon">
+                                            <i class="fa-solid fa-user"></i></div>
+                                            <div class="useinfo">
+                                                <h1>Easy to Use</h1> <p>Ready to use with your own content, or customize the source files!</p>
+                                            </div>
+                                                        </div>
+                                                        
+            </div>
+        </section>
+        <section>
+            <div class="advantageofcompany">
+                <div class="responsivefulldesign">
+                <div class="responsivefulldesign-text">
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam perspiciatis laborum illo fugit id quas. Omnis quaerat pariatur, adipisci quas dolore officiis velit voluptatem magnam optio ad dolores assumenda, voluptatibus illo nobis nulla. Quo id et ad omnis vitae porro, exercitationem eius ex minus debitis. Nam voluptatum quaerat impedit blanditiis debitis, harum dolorem in dolore, possimus assumenda praesentium earum perspiciatis officia magnam vel maiores dicta ipsa autem, tempore ut fuga accusantium quia. Minima velit natus in molestiae ducimus excepturi laudantium nulla nemo adipisci commodi, vitae ut ab eius recusandae molestias temporibus perferendis vel dolorem enim architecto illo sequi suscipit! Laboriosam rem ipsa ducimus in sed beatae commodi vitae nisi ab et ullam, placeat error. Praesentium, libero enim. Amet, doloremque porro animi eius neque magnam fugit excepturi consectetur a esse tenetur omnis similique placeat quisquam dolor commodi quibusdam accusantium maxime? Nam beatae doloribus itaque quod, quis asperiores cum dolore illo provident dicta veniam qui, laboriosam nesciunt consequuntur nostrum ea quisquam voluptatum.
+
+                    </p>
+                </div>
+                <img src="img/telephone.jpg" alt="telephone" class="responsivefulldesign-image">
+            </div>
+<div class="Updatedbootstrap">
+    <img src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg" alt="telephone" class="bootstrap-image">
+    <div class="Updatedbootstrap-text">
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam perspiciatis laborum illo fugit id quas. Omnis quaerat pariatur, adipisci quas dolore officiis velit voluptatem magnam optio ad dolores assumenda, voluptatibus illo nobis nulla. Quo id et ad omnis vitae porro, exercitationem eius ex minus debitis. Nam voluptatum quaerat impedit blanditiis debitis, harum dolorem in dolore, possimus assumenda praesentium earum perspiciatis officia magnam vel maiores dicta ipsa autem, tempore ut fuga accusantium quia. Minima velit natus in molestiae ducimus excepturi laudantium nulla nemo adipisci commodi, vitae ut ab eius recusandae molestias temporibus perferendis vel dolorem enim architecto illo sequi suscipit! Laboriosam rem ipsa ducimus in sed beatae commodi vitae nisi ab et ullam, placeat error. Praesentium, libero enim. Amet, doloremque porro animi eius neque magnam fugit excepturi consectetur a esse tenetur omnis similique placeat quisquam dolor commodi quibusdam accusantium maxime? Nam beatae doloribus itaque quod, quis asperiores cum dolore illo provident dicta veniam qui, laboriosam nesciunt consequuntur nostrum ea quisquam voluptatum.
+
+        </p>
+    </div>
+
+</div>
+<div class="easytousedesign">
+    <div class="easytouse-text">
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam perspiciatis laborum illo fugit id quas. Omnis quaerat pariatur, adipisci quas dolore officiis velit voluptatem magnam optio ad dolores assumenda, voluptatibus illo nobis nulla. Quo id et ad omnis vitae porro, exercitationem eius ex minus debitis. Nam voluptatum quaerat impedit blanditiis debitis, harum dolorem in dolore, possimus assumenda praesentium earum perspiciatis officia magnam vel maiores dicta ipsa autem, tempore ut fuga accusantium quia. Minima velit natus in molestiae ducimus excepturi laudantium nulla nemo adipisci commodi, vitae ut ab eius recusandae molestias temporibus perferendis vel dolorem enim architecto illo sequi suscipit! Laboriosam rem ipsa ducimus in sed beatae commodi vitae nisi ab et ullam, placeat error. Praesentium, libero enim. Amet, doloremque porro animi eius neque magnam fugit excepturi consectetur a esse tenetur omnis similique placeat quisquam dolor commodi quibusdam accusantium maxime? Nam beatae doloribus itaque quod, quis asperiores cum dolore illo provident dicta veniam qui, laboriosam nesciunt consequuntur nostrum ea quisquam voluptatum.
+
+        </p>
+    </div>
+    <img src="https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-3.jpg" alt="telephone" class="easytouse-image">
+</div>
+                
+            </div>
+        </section>
+        <section>
+            <div class="peoplesaying">
+                <div class="saying"><h1>What people are saying...</h1></div>
+                <div class="margeret">
+<div class="margeretimg">
+   </div>
+    <div class="margeretinfo">
+        <h1>Margaret E.</h1> <p>"This is fantastic! Thanks so much guys!"</p>
+    </div>
+
+                                            </div>
+                                            <div class="Fred">
+                                                <div class="Fredimg">
+                                                   </div>
+                                                    <div class="Fredinfo">
+                                                        <h1>Fred S.</h1> <p>"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."</p>
+                                                    </div>
+                                                
+                                                                                            </div>
+
+                                                                                            <div class="Sarah">
+                                                                                                <div class="Sarahimg">
+                                                                                                   </div>
+                                                                                                    <div class="Sarahinfo">
+                                                                                                        <h1>Sarah W.</h1> <p>"Thanks so much for making these free resources available to us!"</p>
+                                                                                                    </div>
+                                                                                                
+                                                                                                                                            </div>                                                        </div>
+                                                        
+        </section>
+        <section>
+            <div id="SignUp">
+                <div class="sign">
+                    <div class="signmain">
+                        <div class="signinfo">
+                            <h1>Ready to get started? Sign up now!</h1>
+                          </div>  
+                          <div class="submitclass">
+                            <input type="text" placeholder="Emailadress" required> 
+                            <input type="submit" >
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+<footer>
+    <div class="footer">
+        <div class="menu">
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+            <a href="#">Terms of Use</a>
+            <a href="#"> Privacy Policy</a>
+            <div class="socialinfo"><pre class="info">  &copy;Your Website 2023. All Rights Reserved.</pre> 
+                <div class="socialicons"> 
+                <a href="#"><i class="fa-brands fa-facebook"></i></a>    
+                 <a href="#"><i class="fa-brands fa-twitter"></i></a>   
+                  <a href="#"><i class="fa-brands fa-instagram"></i></a>  
+            </div></div>
+            
+       
+        </div>
+        
+       
+    </div>
+</footer>
+</body>
+</html>
+
+
+//css
+
+body{
+  margin: 0;padding: 0;
+}
+.navinfo{
+  display: inline-block;
+  width: 50%;
+}
+.button{
+  background-color: blue;
+  width: 60px;
+  height: 50px;
+border-radius: 4px;
+}
+.navbutton{
+  width: 45%;
+  display: inline-block;
+ padding-left: 40%;
+ box-sizing: border-box;
+
+}
+.button a{
+  display: inline-block;
+  color: aliceblue;
+  text-decoration: none;
+}
+.nav{
+  padding-left: 3%;
+
+}
+
+.lpmain{
+height: 600px;
+  background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 150px;
+  box-sizing: border-box;
+
+}
+.lpinfo{
+  margin: 0 auto;
+  width: 400px;
+  height: 120px;
+  
+}
+.submitclass{
+  margin-left: 30%;
+
+}
+.submitclass input{
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+}
+.submitclass  [type=submit]{
+  background-color: blue;
+}
+i{
+  font-size: 40px;
+  margin-left: 10%;
+}
+.advantage{
+padding-left: 40px;
+  height: max-content;
+  background-color: antiquewhite;
+  box-sizing: border-box;
+  margin: 0;
+}
+.responsive{
+  width: 20%;
+  display: inline-block;
+  margin-left: 7%;
+}
+.responsiveinfo{
+  margin-left: 5%;
+  width: 45%;
+}
+.bootstrap{
+  margin-left: 12%;
+  width: 25%;
+  display: inline-block;
+}
+.bootstrapinfo{
+  width: 50%;
+}
+.use{
+  margin-left: 8%;
+  width: 25%;
+  display: inline-block;  
+  box-sizing: border-box;
+  margin-left: 10%;
+}
+.useinfo{
+  width: 50%;
+}
+
+.useinfo h1{
+  margin-bottom: 24%;
+}
+.responsivefulldesign-image{
+  width: 400px;
+  height: 400px;
+  vertical-align: top ;
+  margin-left: 20.7%;
+}
+.responsivefulldesign-text{
+  width: 800px;
+  display: inline-block;
+}
+.advantageofcompany{
+  margin-top: 5%;
+margin-right: 0;
+}
+.bootstrap-image{
+  width: 400px;
+height: 400px;
+vertical-align: top;
+
+}
+.Updatedbootstrap-text{
+  width: 800px;
+  display: inline-block;
+  margin-left: 20.7%;
+}
+.easytouse-image{
+  width: 400px;
+  height: 400px;
+  vertical-align: top ;
+  margin-left: 20.7%;
+}
+.easytouse-text{
+  width: 800px;
+  display: inline-block;
+}
+.easytousedesign{
+  margin-top: 3%;
+}
+.Updatedbootstrap{
+  margin-top: 3%;
+}
+.responsivefulldesign{
+  margin-top: 3%;
+}
+.peoplesaying{
+  padding-left: 40px;
+      height: max-content;
+      background-color: antiquewhite;
+      box-sizing: border-box;
+      margin:0;
+      margin-top: 3%;
+      padding-top: 4%;
+      box-sizing: border-box;
+padding-bottom: 3%;    }
+.margeret{
+  width: 15%;
+  display: inline-block;
+  margin-left: 7%;
+} 
+.margeretimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/testimonials-1.jpg);
+  background-size: cover;
+}
+.margeretinfo{
+  margin-left: 5%;
+  width: 65%;
+}
+.margeretinfo>p{
+  margin-left:-15%;
+
+}
+.Fred{
+  width: 20%;
+  display: inline-block;
+  margin-left: 17%;
+} 
+.Fredimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/testimonials-2.jpg);
+  background-size: cover;
+}
+.Fredinfo{
+  
+  margin-left: 12%;
+  width: 100%;
+
+}
+.Fredinfo>p{
+  width: 100%;
+  margin-left:-15%;
+}
+.Sarah{
+  width: 20%;
+  display: inline-block;
+  margin-left: 17%;
+} 
+.Sarahimg{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/testimonials-3.jpg);
+  background-size: cover;
+}
+.Sarahinfo{
+  
+  margin-left: 12%;
+  width: 100%;
+
+}
+.Sarahinfo>p{
+  width: 100%;
+  margin-left:-15%;
+}
+.saying{
+  display: block;
+  margin-left: 37%;
+  margin-bottom: 5%
+}
+.signmain{
+  height: 400px;
+      background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding-top: 150px;
+      box-sizing: border-box;
+  
+  }
+  .signinfo>h1{
+      color: antiquewhite;
+  }
+  .signinfo{
+      margin: 0 auto;
+      width: 400px;
+      height: 120px;
+      
+  }
+  .footer{
+      padding-top: 5%;
+      box-sizing: border-box;
+  }
+  .menu{
+      width: 100%;
+      height: 200px;
+  }
+  .menu>a{
+      padding-left: 2%;
+  }
+  .socialiconsmain>i{
+      font-size: 35px;
+  }
+ .info{
+  display: inline-block;
+font-size: 18px;
+}
+.socialicons{
+ margin-left: 50%;
+  width: 20%;
+  display: inline-block;
+}
